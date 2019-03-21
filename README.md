@@ -1,11 +1,11 @@
 This is a repository for the paper:
 
-## <center>Ensemble models from machine learning: an example of wave runup and coastal dune erosion</center>
-### <center>Tomas Beuzen<sup>1</sup>, Evan B. Goldstein<sup>2</sup>, Kristen D. Splinter<sup>1</sup></center>
- 
-<center><sup>1</sup>Water Research Laboratory, School of Civil and Environmental Engineering, UNSW Sydney, NSW, Australia</center>
- 
-<center><sup>2</sup>Department of Geography, Environment, and Sustainability, University of North Carolina at Greensboro, Greensboro, NC, USA</center>
+## Ensemble models from machine learning: an example of wave runup and coastal dune erosion
+### Tomas Beuzen<sup>1</sup>, Evan B. Goldstein<sup>2</sup>, Kristen D. Splinter<sup>1</sup>
+
+<sup>1</sup>Water Research Laboratory, School of Civil and Environmental Engineering, UNSW Sydney, NSW, Australia
+
+<sup>2</sup>Department of Geography, Environment, and Sustainability, University of North Carolina at Greensboro, Greensboro, NC, USA
  
 **Citation:** Beuzen, T, Goldstein, E.B., Splinter, K.S. (In Review). Ensemble models from machine learning: an example of wave runup and coastal dune erosion,
 Natural Hazards and Earth Systems Science, SI Advances in computational modeling of geoprocesses and geohazards.
