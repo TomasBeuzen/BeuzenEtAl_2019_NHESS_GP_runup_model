@@ -11,8 +11,8 @@ This is a repository for the paper:
 Natural Hazards and Earth Systems Science, SI Advances in computational modeling of geoprocesses and geohazards.
 
 <img src="docs/figure_7.png" 
-     width="400"
-     style="float: center" />
+     width="800"
+     class="center" />
 
 The folder paper_code contains a jupyter notebook that reproduces the GP runup predictor presented in the manuscript.
 
