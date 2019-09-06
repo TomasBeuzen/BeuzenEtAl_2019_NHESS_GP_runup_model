@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/144752081.svg)](https://zenodo.org/badge/latestdoi/144752081)
+
 This is a repository for the paper:
 
 ## Ensemble models from machine learning: an example of wave runup and coastal dune erosion
