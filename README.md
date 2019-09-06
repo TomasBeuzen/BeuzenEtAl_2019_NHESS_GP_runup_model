@@ -10,7 +10,7 @@ This is a repository for the paper:
 **Citation:** Beuzen, T, Goldstein, E.B., Splinter, K.S. (In Review). Ensemble models from machine learning: an example of wave runup and coastal dune erosion,
 Natural Hazards and Earth Systems Science, SI Advances in computational modeling of geoprocesses and geohazards.
 
-<img src="docs/figure_7.png" 
+<img src="docs/figure.png" 
      width="800"
      class="center" />
 
