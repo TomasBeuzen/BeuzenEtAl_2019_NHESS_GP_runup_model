@@ -16,7 +16,9 @@ Natural Hazards and Earth Systems Science, SI Advances in computational modeling
      width="800"
      class="center" />
 
-The folder paper_code contains a jupyter notebook that reproduces the GP runup predictor presented in the manuscript.
+The folder `paper_code` contains a jupyter notebook that reproduces the GP runup predictor presented in the manuscript.
+
+The folder `LEH04model` contains Python scripts for using the GP runup predictions from the 2011 storm in the Larson, Erikson, Hanson (2004) dune erosion model.
 
 The folder `data_repo` contains data required to run the code.
 * The file `lidar_runup_data_for_GP_training.csv` contains the 416 runup samples used to develop the GP predictor.
