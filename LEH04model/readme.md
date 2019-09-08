@@ -1,4 +1,6 @@
-## There are four routines here for using GP runup esitmates in the Larson, Erikson, Hanson (2004) model of dune erosion (http://doi.org/10.1016/j.coastaleng.2004.07.003):
+##Dune erosion Model:
+
+There are four routines here for using GP runup esitmates in the Larson, Erikson, Hanson (2004) model of dune erosion (http://doi.org/10.1016/j.coastaleng.2004.07.003):
 
 **LEH04.py** — this is the ‘core’ routine, with a single function that implements the LEH04 model
 
