@@ -1,4 +1,4 @@
-##Dune erosion Model:
+## Dune erosion Model:
 
 There are four routines here for using GP runup esitmates in the Larson, Erikson, Hanson (2004) model of dune erosion (http://doi.org/10.1016/j.coastaleng.2004.07.003):
 
